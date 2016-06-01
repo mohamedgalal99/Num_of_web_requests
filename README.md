@@ -3,4 +3,4 @@
 Simple one line bash, to get total number of requests in access log file
 to enjoye run command
 
-\t watch requestNum.sh
+#### watch requestNum.sh
